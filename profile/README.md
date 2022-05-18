@@ -8,7 +8,7 @@ This organization and collection of repositories will host the content for the Y
 - *[Introduction to spaCy (2021)](https://spacy.pythonhumanities.com)*
 - *[Introduction to Pandas (2021)](https://pandas.pythonhumanities.com)*
 - *[Introduction to Named Entity Recognition (2020)](https://ner.pythonhumanities.com)*
-
+<center>
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
@@ -18,3 +18,4 @@ This organization and collection of repositories will host the content for the Y
 
 [1]: http://www.twitter.com/python4dh
 [2]: http://www.facebook.com/wjbmattingly
+</center>

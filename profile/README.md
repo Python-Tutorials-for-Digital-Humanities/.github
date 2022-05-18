@@ -9,3 +9,9 @@ This organization and collection of repositories will host the content for the Y
 - *[Introduction to Pandas (2021)](https://pandas.pythonhumanities.com)*
 - *[Introduction to Named Entity Recognition (2020)](https://ner.pythonhumanities.com)*
 
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)

@@ -7,4 +7,4 @@ This organization and collection of repositories will host the content for the Y
 - *[Introduction to BookNLP (2022)](https://booknlp.pythonhumanities.com)*
 - *[Introduction to spaCy (2021)](https://spacy.pythonhumanities.com)*
 - *[Introduction to Pandas (2021)](https://pandas.pythonhumanities.com)*
-- *[Introduction to Named Entity Recognition (2020)](https://ner.pythonhumanities.com)*er>
+- *[Introduction to Named Entity Recognition (2020)](https://ner.pythonhumanities.com)*
